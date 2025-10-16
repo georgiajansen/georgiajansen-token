@@ -11,7 +11,7 @@
 
 ---
 
-## How this token was created (step-by-step with screenshots)
+## How this token was created 
 
 1. **Generate the token code with OpenZeppelin Wizard**  
    Configuration: **ERC20** + **Permit**, Name `Georgia Jansen`, Symbol `GJ`, Premint `1000`.  
